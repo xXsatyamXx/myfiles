@@ -1,0 +1,49 @@
+button{
+    margin: 15px;
+    padding: 50px;
+   
+}
+
+
+.btn1{
+transition: 0.3s;
+color: #0004ff;
+padding: 10px 25px;
+background:#00d9ff;
+border: 2px solid rgb(0, 255, 179);
+border-radius: 20px;
+outline: none;
+cursor: pointer;
+background-color: #00d9ff;
+}
+
+.btn2{
+    transition: 0.3s;
+    color: #0004ff;
+    padding: 10px 25px;
+    background:#00d9ff;
+    border: 2px solid rgb(0, 255, 179);
+    border-radius: 20px;
+    outline: none;
+    cursor: pointer;
+    background-color: #00d9ff;
+    position: relative;
+    top: 100px;
+    right: 200px;
+    }
+
+    .btn3{
+        transition: 0.3s;
+    color: #0004ff;
+    padding: 10px 25px;
+    background:#00d9ff;
+    border: 2px solid rgb(0, 255, 179);
+    border-radius: 20px;
+    outline: none;
+    cursor: pointer;
+    background-color: #00d9ff;
+    position: relative;
+    top: 200px;
+    right: 375px;
+    }
+    
